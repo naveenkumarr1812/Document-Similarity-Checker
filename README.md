@@ -23,7 +23,7 @@ This project uses the Hugging Face Inference API with the `sentence-transformers
 
 1. Clone the repository:
 ```bash
-https://github.com/naveenkumarr1812/Document-Similarity-Checker.git
+git clone https://github.com/naveenkumarr1812/Document-Similarity-Checker.git
 cd document-similarity-checker
 ```
 
