@@ -1,4 +1,4 @@
-# Document Similarity
+# Document Similarity Using Semantic Analysis
 
 A Python application that leverages AI and machine learning to find similar documents based on semantic similarity using sentence embeddings.
 
